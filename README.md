@@ -12,10 +12,10 @@ Access to the hosted service is invite only for now: ask at team@ayinbox.com.
 
 ## Install
 
-Not on pkg.go.dev yet: no version has been tagged. Until `v0.1.0` is released, install from the main branch:
+Requires Go 1.22 or later.
 
 ```bash
-go get github.com/ayinbox/ayinbox-go@main
+go get github.com/ayinbox/ayinbox-go@latest
 ```
 
 ```go
